@@ -1,8 +1,18 @@
-.home {
-    min-height: 100vh;
-    background: navy;
-    color: white;
+body {
+    background: blue;
     display: flex;
-    justify-content: space-around;
-    align-items: center;
+    justify-content: center;
 }
+
+button {
+    width: 200px;
+    margin: 1rem 1rem;
+}
+
+.breakline {
+    height: 5px;
+    width: 100%;
+    background: black;
+}
+
+
